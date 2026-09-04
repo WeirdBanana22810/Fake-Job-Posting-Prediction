@@ -1,6 +1,7 @@
 # Data
 data/*.csv
 data/*.pkl
+data/*.joblib
 
 # Python
 __pycache__/
