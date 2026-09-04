@@ -1,5 +1,6 @@
 # Data
 data/*.csv
+data/*.pkl
 
 # Python
 __pycache__/
@@ -18,5 +19,3 @@ Thumbs.db
 # Editors
 .vscode/
 .idea/
-
-echo "data/*.pkl" >> .gitignore
